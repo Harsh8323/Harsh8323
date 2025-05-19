@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **developing an attractive landing page.**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
